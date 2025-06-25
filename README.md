@@ -6,8 +6,8 @@
 - 💙 Passionate Flutter developer with 5+ years of experience.
 - 🌐 Web developer building fast, modern UIs with React and TypeScript.
 - 🛠️ Backend specialist with NestJS, Prisma, and MySQL.
-- 🎥 I teach Flutter & Firebase on YouTube — from MVPs to production-ready apps.
-- 🌍 Helping clients in the US/UK build affordable, scalable tech products.
+- 🎥 I teach Flutter & Nestjs on YouTube — from MVPs to production-ready apps.
+- 🌍 Helping clients building affordable, scalable tech products.
 - 📚 Always learning — Cloud Architecture, System Design, and AI.
 
 
