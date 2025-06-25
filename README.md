@@ -9,7 +9,7 @@
 - 🎥 I teach Flutter & Firebase on YouTube — from MVPs to production-ready apps.
 - 🌍 Helping clients in the US/UK build affordable, scalable tech products.
 - 📚 Always learning — Cloud Architecture, System Design, and AI.
-- ✍️ Hobbies include visual design and content writing.
+
 
 ---
 
@@ -37,19 +37,13 @@
 - 🛢 Database:
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=hive)
+ 
 
 - ⚙️ Tools:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- 🎨 Design:
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-
----
 
 <h3>📊 GitHub Stats</h3>
 
@@ -63,9 +57,8 @@
 <h3>📬 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.raymond-mwaikasu.com/"><img alt="Website" src="https://img.shields.io/badge/Website-raymond--mwaikasu.com-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/raymond-mwaikasu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raymond%20Mwaikasu-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/raymond.codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raymond.codes-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/raymond_codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raymond.codes-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:mwaikasu21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mwaikasu21@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
